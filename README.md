@@ -1,1 +1,1 @@
-# instaclone-react
+# image-sharer-homepage-clone
