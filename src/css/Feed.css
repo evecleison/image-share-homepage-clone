@@ -1,0 +1,69 @@
+.feed {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.post {
+  background-color: #fff;
+  border-bottom: 1px solid #dbdbdb;
+  margin-bottom: 20px;
+  overflow: hidden;
+}
+
+.post-header {
+  padding: 10px;
+  font-weight: bold;
+}
+
+.post img {
+  width: calc(100% - 2px);
+  max-height: 650px;
+  position: relative;
+  left: 1px;
+}
+
+.post-actions {
+  margin: 10px 0;
+  display: flex;
+  gap: 10px;
+}
+
+.post-actions button{
+  cursor: pointer;
+  border: none;
+  background-color: white;
+}
+
+.post-likes {
+  font-weight: bold;
+  margin: 10px 0;
+  font-size: 15px;
+  padding-left: 1px;
+}
+
+.post-caption {
+  margin: 10px 0;
+  padding-left: 1px;
+}
+
+.post-comments p {
+  margin: 4px 0;
+  font-size: 14px;
+  padding-left: 1px;
+}
+
+.post-comments input {
+  width: 80%;
+  padding-bottom: 6px;
+  margin-top: 8px;
+  border: 1px solid #ccc;
+  border: none;
+  outline: none;
+}
+
+.post-comments button {
+  border: none;
+  background-color: white;
+  color: #888;
+  cursor: pointer;
+}

@@ -1,0 +1,31 @@
+.stories {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  overflow-x: auto;
+  margin: 20px 0;
+}
+
+.story {
+  text-align: center;
+  cursor: pointer;
+}
+
+.story-icon {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  border: 2px solid #c13584;
+  overflow: hidden;
+  margin-bottom: 5px;
+}
+
+.story-icon img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.story span {
+  font-size: 12px;
+}

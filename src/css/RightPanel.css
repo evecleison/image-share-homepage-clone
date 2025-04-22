@@ -1,0 +1,135 @@
+/* Container geral */
+.right-panel {
+  width: 300px;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+  border-left: 1px solid #ddd;
+}
+
+/* Perfil */
+.profile-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.profile-info {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.profile-avatar {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  object-fit: cover;
+  cursor: pointer;
+}
+
+.profile-username {
+  font-size: 14px;
+  display: block;
+  cursor: pointer;
+}
+
+.profile-name {
+  font-size: 12px;
+  color: #888;
+  margin: 0;
+}
+
+.switch-btn {
+  background: none;
+  border: none;
+  color: #0095f6;
+  cursor: pointer;
+  font-size: 12px;
+  font-weight: bold;
+}
+
+/* Cabeçalho de sugestões */
+.suggestions-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.see-all-btn {
+  background: none;
+  border: none;
+  color: #000;
+  font-size: 12px;
+  cursor: pointer;
+}
+
+/* Itens de sugestão */
+.suggestion-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 8px 0;
+}
+
+.suggestion-avatar {
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+.suggestion-text {
+  flex: 1;
+  margin: 0 10px;
+  cursor: pointer;
+}
+
+.suggestion-text strong {
+  display: block;
+  font-size: 13px;
+}
+
+.suggestion-text span {
+  display: block;
+  font-size: 11px;
+  color: #888;
+}
+
+.follow-btn {
+  background: none;
+  border: none;
+  color: #0095f6;
+  cursor: pointer;
+  font-size: 12px;
+  font-weight: bold;
+}
+
+/* Links de rodapé */
+.panel-links {
+  font-size: 11px;
+  color: #c7c7c7;
+  line-height: 1.4;
+  margin: 20px 0 5px;
+}
+
+.panel-links a {
+  display: inline-block;
+  color: #c7c7c7;
+  text-decoration: none;
+  margin: 0 2px;
+}
+
+/* Copyright */
+.footer-copy {
+  font-size: 11px;
+  color: #c7c7c7;
+  text-align: center;
+}
+
+@media (max-width: 1080px) {
+  .right-panel {
+    display: none;
+  }
+}

@@ -1,0 +1,28 @@
+.top-nav {
+  display: none;
+}
+
+@media (max-width: 1080px) {
+  .top-nav {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #ccc;
+    background-color: #fff;
+  }
+
+  .top-nav h2 {
+    font-family: 'Segoe UI', sans-serif;
+    font-weight: 700;
+    margin: 10px;
+  }
+
+  .top-nav .icons {
+    display: flex;
+    gap: 16px;
+    margin-right: 10px;
+    font-size: 20px;
+    cursor: pointer;
+  }
+}
