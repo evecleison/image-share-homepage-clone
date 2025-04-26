@@ -4,6 +4,8 @@
 
 Most of the code uses variable names, functions, etc., in English, while code comments and the interface/page text content are in Brazilian Portuguese.
 
+👉  [See the project in action](https://evecleison.github.io/image-share-homepage-clone/)
+
 ## Project Description
 
 A front-end project inspired by the Instagram Web homepage. Developed using React, JavaScript, and Vite. Additionally, pure CSS was used for styling and responsiveness across different screen widths.
@@ -11,8 +13,6 @@ A front-end project inspired by the Instagram Web homepage. Developed using Reac
 ## 🎥 Demo
 
 ![App Demo](./public/homepage.gif)
-
-👉  [See the project in action](https://evecleison.github.io/image-share-homepage-clone/)
 
 ## 🔧 Installation and Execution
 
