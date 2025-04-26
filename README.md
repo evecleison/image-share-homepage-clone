@@ -10,7 +10,7 @@ Projeto front-end inspirado na página inicial do Instagram Web. Desenvolvido co
 
 ## 🎥 Demonstração
 
-![Demonstração do App](/homepage.gif)
+![Demonstração do App](./public/homepage.gif)
 
 ## 🔧 Instalação e Execução
 

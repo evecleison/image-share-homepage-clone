@@ -10,7 +10,7 @@ A front-end project inspired by the Instagram Web homepage. Developed using Reac
 
 ## 🎥 Demo
 
-![App Demo](/homepage.gif)
+![App Demo](./public/homepage.gif)
 
 ## 🔧 Installation and Execution
 
