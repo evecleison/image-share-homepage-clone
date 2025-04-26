@@ -11,31 +11,31 @@ import BottomNav from './components/BottomNav';
 function App() {
   // Dados dos stories
   const storiesData = [
-    { id: 1, user: 'Ana', img: '/woman.jpg' },
-    { id: 2, user: 'Mariano', img: '/man-coffe.jpg' },
-    { id: 3, user: 'Iara', img: '/smiling.jpg' },
-    { id: 4, user: 'Lucas', img: '/m.jpg' },
-    { id: 5, user: 'Juliano', img: '/jjagtenberg.jpg' },
-    { id: 6, user: 'Bia', img: '/girl.jpg' },
-    { id: 7, user: 'Letícia', img: '/mulher-loira.jpg' },
-    { id: 8, user: 'João', img: '/night-sky.jpg' },
-    { id: 9, user: 'Biana', img: '/fashion.jpg' },
-    { id: 10, user: 'Victoria', img: '/family.jpg' }
+    { id: 1, user: 'Ana', img: './assets/woman.jpg' },
+    { id: 2, user: 'Mariano', img: './assets/man-coffe.jpg' },
+    { id: 3, user: 'Iara', img: './assets/smiling.jpg' },
+    { id: 4, user: 'Lucas', img: './assets/m.jpg' },
+    { id: 5, user: 'Juliano', img: './assets/jjagtenberg.jpg' },
+    { id: 6, user: 'Bia', img: './assets/girl.jpg' },
+    { id: 7, user: 'Letícia', img: './assets/mulher-loira.jpg' },
+    { id: 8, user: 'João', img: './assets/night-sky.jpg' },
+    { id: 9, user: 'Biana', img: './assets/fashion.jpg' },
+    { id: 10, user: 'Victoria', img: './assets/family.jpg' }
   ];
 
   // Dados das postagens
   const postsData = [
-    { id: 1, user: 'Juliano', img: '/jjagtenberg.jpg', caption: 'Curtindo a vista!' },
-    { id: 2, user: 'João', img: '/night-sky.jpg', caption: 'Céu noturno' },
-    { id: 3, user: 'Iara', img: '/woman-8237167_1280.jpg', caption: '' },
-    { id: 4, user: 'Victoria', img: '/family.jpg', caption: 'Minha Família' }
+    { id: 1, user: 'Juliano', img: './assets/jjagtenberg.jpg', caption: 'Curtindo a vista!' },
+    { id: 2, user: 'João', img: './assets/night-sky.jpg', caption: 'Céu noturno' },
+    { id: 3, user: 'Iara', img: './assets/woman-8237167_1280.jpg', caption: '' },
+    { id: 4, user: 'Victoria', img: './assets/family.jpg', caption: 'Minha Família' }
   ];
 
   // Dados do usuário
   const user = {
     username: 'leandro',
     name: 'Leandro',
-    image: '/man.jpg',
+    image: './assets/man.jpg',
   };
 
   // Dados das sugestões
@@ -43,27 +43,27 @@ function App() {
     {
       username: 'cristina02',
       info: 'Seguido(a) por heych2002 ...',
-      image: '/divinetechygirl.jpg',
+      image: './assets/divinetechygirl.jpg',
     },
     {
       username: 'jonas232',
       info: 'Seguido(a) por kenoere ...',
-      image: '/homem-barbado.jpg',
+      image: './assets/homem-barbado.jpg',
     },
     {
       username: 'sabrina_19',
       info: 'Seguido(a) por lofti232 ...',
-      image: '/tephanefabricebass.jpg',
+      image: './assets/tephanefabricebass.jpg',
     },
     {
       username: 'Alessandro77',
       info: 'Seguido por lofti232 ...',
-      image: '/kalz-michael.jpg',
+      image: './assets/kalz-michael.jpg',
     },
     {
       username: 'gustavo-fring',
       info: 'Seguido por dark_emeralds',
-      image: '/gustavo-fring.jpg',
+      image: './assets/gustavo-fring.jpg',
     },
   ];
 
