@@ -8,6 +8,10 @@ A maior parte do código utiliza nomes de variáveis, funções, etc., em inglê
 
 Projeto front-end inspirado na página inicial do Instagram Web. Desenvolvido com React, JavaScript e Vite. Além disso, foi utilizado o CSS puro para estilos e responsividade para diferentes larguras de tela.
 
+## 🎥 Demonstração
+
+![Demonstração do App](/homepage.gif)
+
 ## 🔧 Instalação e Execução
 
 1. Clone este repositório:
