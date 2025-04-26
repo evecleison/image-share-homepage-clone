@@ -12,6 +12,8 @@ Projeto front-end inspirado na página inicial do Instagram Web. Desenvolvido co
 
 ![Demonstração do App](./public/homepage.gif)
 
+[Veja o projeto em funcionamento](https://evecleison.github.io/image-share-homepage-clone/)
+
 ## 🔧 Instalação e Execução
 
 1. Clone este repositório:

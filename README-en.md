@@ -12,6 +12,8 @@ A front-end project inspired by the Instagram Web homepage. Developed using Reac
 
 ![App Demo](./public/homepage.gif)
 
+👉  [See the project in action](https://evecleison.github.io/image-share-homepage-clone/)
+
 ## 🔧 Installation and Execution
 
 1. Clone this repository:
