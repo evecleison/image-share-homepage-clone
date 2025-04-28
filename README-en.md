@@ -1,6 +1,6 @@
 # Image Sharer Homepage Clone
 
-📌 Este documento está escrito em inglês. Para a versão em inglês, veja o arquivo [README.md](./README.md).
+📌 Este documento está escrito em inglês. Para a versão em português do Brasil, veja o arquivo [README.md](./README.md).
 
 Most of the code uses variable names, functions, etc., in English, while code comments and the interface/page text content are in Brazilian Portuguese.
 
