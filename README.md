@@ -31,7 +31,6 @@ Projeto front-end inspirado na página inicial do Instagram Web. Desenvolvido co
 4. Abra o projeto em seu navegador:
     ```bash
     http://localhost:5173
-    
 
 ## 🛠️ Tecnologias utilizadas
 
