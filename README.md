@@ -19,19 +19,19 @@ Projeto front-end inspirado na página inicial do Instagram Web. Desenvolvido co
 1. Clone este repositório:
     ```bash
     git clone https://github.com/evecleison/image-share-homepage-clone.git
-    ```
+    
 2. Instale as dependências:
     ```bash
     npm install
-    ```
+    
 3. Inicie o servidor de desenvolvimento:
     ```bash
     npm run dev
-    ```
+    
 4. Abra o projeto em seu navegador:
     ```bash
     http://localhost:5173
-    ```
+    
 
 ## 🛠️ Tecnologias utilizadas
 
